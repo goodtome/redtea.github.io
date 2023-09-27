@@ -9,8 +9,26 @@
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Wed, 27 Sep 2023 05:30:53 GMT</pubDate>
+    <description>This is a blank Quartz installation. See the documentation for how to get started. 这是一个新的测试文章test 在添加一个外部的文件 dddd ，看是不是是能访问到.</description>
+    <pubDate>Wed, 27 Sep 2023 07:19:33 GMT</pubDate>
+  </item><item>
+    <title>ddddd</title>
+    <link>https://quartz.jzhao.xyz/notes/dddd</link>
+    <guid>https://quartz.jzhao.xyz/notes/dddd</guid>
+    <description>这是一个测试页面.</description>
+    <pubDate>Wed, 27 Sep 2023 08:45:43 GMT</pubDate>
+  </item><item>
+    <title>to test</title>
+    <link>https://quartz.jzhao.xyz/notes/test</link>
+    <guid>https://quartz.jzhao.xyz/notes/test</guid>
+    <description>我可以使用中文来写这个文章表达我自己的理想和生活….</description>
+    <pubDate>Wed, 27 Sep 2023 08:37:05 GMT</pubDate>
+  </item><item>
+    <title>手机用</title>
+    <link>https://quartz.jzhao.xyz/notes/%E4%BD%BF%E7%94%A8</link>
+    <guid>https://quartz.jzhao.xyz/notes/%E4%BD%BF%E7%94%A8</guid>
+    <description>大风我让饿啊的额文峰.</description>
+    <pubDate>Wed, 27 Sep 2023 08:49:44 GMT</pubDate>
   </item>
     </channel>
   </rss>
